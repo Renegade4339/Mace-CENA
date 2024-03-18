@@ -1,0 +1,54 @@
+{
+  "item.mace.smash_ground": {
+    "sounds": [
+      {
+        "name": "item/mace/mace_smash_ground1",
+        "volume": 1.5,
+        "attenuation_distance": 40,
+        "stream": true
+      },
+      {
+        "name": "item/mace/mace_smash_ground2",
+        "volume": 1.5,
+        "attenuation_distance": 40,
+        "stream": true
+      },
+      {
+        "name": "item/mace/mace_smash_ground3",
+        "volume": 1.5,
+        "attenuation_distance": 40,
+        "stream": true
+      },
+      {
+        "name": "item/mace/mace_smash_ground4",
+        "volume": 1.5,
+        "attenuation_distance": 40,
+        "stream": true
+      }
+    ],
+    "replace": true, "subtitle": "subtitles.item.mace.smash_ground"
+  },
+  "item.mace.smash_air": {
+    "sounds": [
+      {
+        "name": "item/mace/mace_smash_air1",
+        "volume": 1.5,
+        "attenuation_distance": 40,
+        "stream": true
+      },
+      {
+        "name": "item/mace/mace_smash_air2",
+        "volume": 1.5,
+        "attenuation_distance": 40,
+        "stream": true
+      },
+      {
+        "name": "item/mace/mace_smash_air3",
+        "volume": 1.5,
+        "attenuation_distance": 40,
+        "stream": true
+      }
+    ],
+    "replace": true, "subtitle": "subtitles.item.mace.smash_air"
+  }
+}
