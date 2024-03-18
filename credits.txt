@@ -1,0 +1,4 @@
+Music is The Time is Now by John Cena and Marc Predka (correct me if i'm wrong)
+The meme: https://knowyourmeme.com/memes/unexpected-john-cena-and-his-name-is-john-cena
+
+I dug through the game files to find the sound file names for the mace smashing sounds for this to happen.
